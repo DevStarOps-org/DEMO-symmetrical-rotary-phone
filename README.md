@@ -1,12 +1,10 @@
-# Community health files and Starter template
-
-Community health files for the @dah-dah-demos organization
-
-For more information, please see the article on [creating a default community health file for your organization](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
-
-
+# Rotary Phone
 
 For my primary account check out [@Gordon-Beeming](https://github.com/Gordon-Beeming)
+
+something else
+sdsdsd
+last bit
 
 - 🔭 I'm currently working on posts and videos around tips a tricks to make your applications run better
 - 🌱 I'm currently learning more about Security
